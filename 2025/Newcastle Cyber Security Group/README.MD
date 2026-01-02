@@ -1,2 +1,3 @@
 Talk Title : Detecting DPRK IT Workers during before and After hiring
+
 Event  : [Newcastle Cyber Security Group(NSCG) Meetup](https://web.archive.org/save/https://www.meetup.com/newcastle-cyber-security-group/events/307362842/?eventOrigin=group_past_events)
