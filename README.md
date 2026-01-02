@@ -1,2 +1,2 @@
 # talks
-Slides of talks I have given
+This repository contains talks and presentations I have given
